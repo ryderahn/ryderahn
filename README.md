@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning deep learning with pytorch
 - 💞️ I’m looking to collaborate on NLP
-- 📫 How to reach me ryderahn@gmail.com
+- 📫 How to reach me
 
 <!---
 ryderahn/ryderahn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
